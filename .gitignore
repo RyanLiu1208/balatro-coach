@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+balatro_coach_state.*
+*.log

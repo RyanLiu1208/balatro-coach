@@ -1,0 +1,11 @@
+{
+  "id": "BalatroCoachBridge",
+  "name": "Balatro Coach Bridge",
+  "author": ["Balatro Coach Contributors"],
+  "description": "Exports visible game state locally for the open-source Balatro Coach desktop companion. No game actions are automated.",
+  "prefix": "bcoach",
+  "main_file": "main.lua",
+  "version": "0.1.0",
+  "priority": 1000,
+  "dependencies": ["Steamodded (>=1.0.0~)"]
+}

@@ -1,0 +1,1529 @@
+[
+  {
+    "key": "j_8_ball",
+    "name": "八号球",
+    "english": "8 Ball",
+    "tags": [
+      "资源",
+      "8"
+    ],
+    "strategy": "围绕8点牌获取塔罗；搭配额外触发，留空消耗品槽。"
+  },
+  {
+    "key": "j_abstract",
+    "name": "抽象小丑",
+    "english": "Abstract Joker",
+    "tags": [
+      "加倍率"
+    ],
+    "strategy": "小丑槽越满越强，前期补倍率，后期可换成长牌。"
+  },
+  {
+    "key": "j_acrobat",
+    "name": "杂技演员",
+    "english": "Acrobat",
+    "tags": [
+      "乘倍率",
+      "末手"
+    ],
+    "strategy": "最后一次出牌才爆发；提前规划剩余出牌次数。"
+  },
+  {
+    "key": "j_ancient",
+    "name": "古老小丑",
+    "english": "Ancient Joker",
+    "tags": [
+      "乘倍率",
+      "花色"
+    ],
+    "strategy": "每回合查看目标花色，配合重触发；避免盲目固定单花色。"
+  },
+  {
+    "key": "j_arrowhead",
+    "name": "箭头",
+    "english": "Arrowhead",
+    "tags": [
+      "筹码",
+      "黑桃"
+    ],
+    "strategy": "把黑桃作为得分核心，和黑桃倍率牌互补。"
+  },
+  {
+    "key": "j_astronomer",
+    "name": "天文学家",
+    "english": "Astronomer",
+    "tags": [
+      "资源",
+      "星球"
+    ],
+    "strategy": "免费星球与天体包用于集中升级主力牌型。"
+  },
+  {
+    "key": "j_banner",
+    "name": "旗帜",
+    "english": "Banner",
+    "tags": [
+      "筹码",
+      "弃牌"
+    ],
+    "strategy": "尽量保留弃牌次数；和需要大量弃牌的成长路线冲突。"
+  },
+  {
+    "key": "j_baron",
+    "name": "男爵",
+    "english": "Baron",
+    "tags": [
+      "乘倍率",
+      "留手",
+      "K"
+    ],
+    "strategy": "把K留在手中，优先钢铁、红蜡封与哑剧演员。"
+  },
+  {
+    "key": "j_baseball",
+    "name": "棒球卡",
+    "english": "Baseball Card",
+    "tags": [
+      "乘倍率",
+      "罕见"
+    ],
+    "strategy": "搭配多张罕见小丑；买牌时同时衡量质量与数量。"
+  },
+  {
+    "key": "j_blackboard",
+    "name": "黑板",
+    "english": "Blackboard",
+    "tags": [
+      "乘倍率",
+      "留手",
+      "黑色"
+    ],
+    "strategy": "出掉红色牌，让留手只剩黑桃和梅花；不要只检查打出的牌。"
+  },
+  {
+    "key": "j_bloodstone",
+    "name": "血石",
+    "english": "Bloodstone",
+    "tags": [
+      "乘倍率",
+      "红桃",
+      "概率"
+    ],
+    "strategy": "红桃得分配重触发；概率增益能改善稳定性，不能保证每次爆发。"
+  },
+  {
+    "key": "j_blue_joker",
+    "name": "蓝色小丑",
+    "english": "Blue Joker",
+    "tags": [
+      "筹码",
+      "牌库"
+    ],
+    "strategy": "大牌库提供筹码；和过度删牌的精简路线存在取舍。"
+  },
+  {
+    "key": "j_blueprint",
+    "name": "蓝图",
+    "english": "Blueprint",
+    "tags": [
+      "复制"
+    ],
+    "strategy": "复制右侧兼容小丑；得分、出牌和回合结束前可分别调整位置。"
+  },
+  {
+    "key": "j_bootstraps",
+    "name": "提靴带",
+    "english": "Bootstraps",
+    "tags": [
+      "加倍率",
+      "经济"
+    ],
+    "strategy": "留钱同时获得倍率；先建立稳定收入，再追求储蓄收益。"
+  },
+  {
+    "key": "j_brainstorm",
+    "name": "头脑风暴",
+    "english": "Brainstorm",
+    "tags": [
+      "复制"
+    ],
+    "strategy": "复制最左侧兼容小丑；选择收益最高的触发目标再安排位置。"
+  },
+  {
+    "key": "j_bull",
+    "name": "斗牛",
+    "english": "Bull",
+    "tags": [
+      "筹码",
+      "经济"
+    ],
+    "strategy": "储蓄转化为筹码；避免刷新商店花光积蓄。"
+  },
+  {
+    "key": "j_burglar",
+    "name": "窃贼",
+    "english": "Burglar",
+    "tags": [
+      "资源",
+      "出牌"
+    ],
+    "strategy": "以额外出牌换掉弃牌次数；与依赖弃牌的牌冲突。"
+  },
+  {
+    "key": "j_burnt",
+    "name": "烧焦小丑",
+    "english": "Burnt Joker",
+    "tags": [
+      "成长",
+      "弃牌",
+      "牌型"
+    ],
+    "strategy": "每回合第一次弃牌用于升级主力牌型；先选好要弃的牌。"
+  },
+  {
+    "key": "j_business",
+    "name": "名片",
+    "english": "Business Card",
+    "tags": [
+      "经济",
+      "人头",
+      "概率"
+    ],
+    "strategy": "让人头牌参与得分，配重触发积累收入。"
+  },
+  {
+    "key": "j_caino",
+    "name": "卡尼奥",
+    "english": "Canio",
+    "tags": [
+      "成长",
+      "人头",
+      "乘倍率"
+    ],
+    "strategy": "通过销毁人头牌成长；先确保有可持续的销毁来源。"
+  },
+  {
+    "key": "j_campfire",
+    "name": "篝火",
+    "english": "Campfire",
+    "tags": [
+      "成长",
+      "交易",
+      "乘倍率"
+    ],
+    "strategy": "买卖廉价消耗品积累倍率；Boss后重置，留钱重新启动。"
+  },
+  {
+    "key": "j_card_sharp",
+    "name": "老千小丑",
+    "english": "Card Sharp",
+    "tags": [
+      "乘倍率",
+      "牌型"
+    ],
+    "strategy": "一回合重复打同一种牌型；先用较小的一手启动条件。"
+  },
+  {
+    "key": "j_cartomancer",
+    "name": "卡牌术士",
+    "english": "Cartomancer",
+    "tags": [
+      "资源",
+      "塔罗"
+    ],
+    "strategy": "选盲注前留一个消耗品槽，用塔罗改造牌库。"
+  },
+  {
+    "key": "j_castle",
+    "name": "城堡",
+    "english": "Castle",
+    "tags": [
+      "成长",
+      "弃牌",
+      "筹码"
+    ],
+    "strategy": "按当前目标花色弃牌；兼顾过关所需的关键手牌。"
+  },
+  {
+    "key": "j_cavendish",
+    "name": "卡文迪什",
+    "english": "Cavendish",
+    "tags": [
+      "乘倍率"
+    ],
+    "strategy": "稳定的后期倍率来源，存在极小自毁概率，预留替补思路。"
+  },
+  {
+    "key": "j_ceremonial",
+    "name": "仪式匕首",
+    "english": "Ceremonial Dagger",
+    "tags": [
+      "成长",
+      "销毁"
+    ],
+    "strategy": "把可牺牲且倍率有价值的小丑放右侧；保护核心牌。"
+  },
+  {
+    "key": "j_certificate",
+    "name": "证书",
+    "english": "Certificate",
+    "tags": [
+      "资源",
+      "蜡封"
+    ],
+    "strategy": "新增带蜡封卡可配全息影像；留意牌库膨胀对抽牌的一致性影响。"
+  },
+  {
+    "key": "j_chaos",
+    "name": "混沌小丑",
+    "english": "Chaos the Clown",
+    "tags": [
+      "经济",
+      "刷新"
+    ],
+    "strategy": "先使用免费刷新，再考虑付费；不要因免费而忽略现有好牌。"
+  },
+  {
+    "key": "j_chicot",
+    "name": "希科",
+    "english": "Chicot",
+    "tags": [
+      "防守",
+      "Boss"
+    ],
+    "strategy": "解除Boss能力能保护路线；仍需满足目标分数。"
+  },
+  {
+    "key": "j_clever",
+    "name": "聪敏小丑",
+    "english": "Clever Joker",
+    "tags": [
+      "筹码",
+      "三条"
+    ],
+    "strategy": "牌型包含三条时补筹码，适合三条、葫芦或四条过渡。"
+  },
+  {
+    "key": "j_cloud_9",
+    "name": "9霄云外",
+    "english": "Cloud 9",
+    "tags": [
+      "经济",
+      "9"
+    ],
+    "strategy": "保留或复制9点牌建立被动收入，后期再评估槽位成本。"
+  },
+  {
+    "key": "j_constellation",
+    "name": "星座",
+    "english": "Constellation",
+    "tags": [
+      "成长",
+      "星球",
+      "乘倍率"
+    ],
+    "strategy": "持续使用星球成长；天文学家可降低启动成本。"
+  },
+  {
+    "key": "j_crafty",
+    "name": "精明小丑",
+    "english": "Crafty Joker",
+    "tags": [
+      "筹码",
+      "同花"
+    ],
+    "strategy": "同花路线补筹码；与花色收益牌组合。"
+  },
+  {
+    "key": "j_crazy",
+    "name": "狂野小丑",
+    "english": "Crazy Joker",
+    "tags": [
+      "加倍率",
+      "顺子"
+    ],
+    "strategy": "顺子路线前期补倍率；搭配捷径或四指降低成牌难度。"
+  },
+  {
+    "key": "j_credit_card",
+    "name": "信用卡",
+    "english": "Credit Card",
+    "tags": [
+      "经济"
+    ],
+    "strategy": "短期借贷渡过危险盲注；负债会削弱利息与存钱收益。"
+  },
+  {
+    "key": "j_delayed_grat",
+    "name": "延迟满足",
+    "english": "Delayed Gratification",
+    "tags": [
+      "经济",
+      "弃牌"
+    ],
+    "strategy": "不弃牌换取回合收入；先确保当前手牌足够过关。"
+  },
+  {
+    "key": "j_devious",
+    "name": "阴险小丑",
+    "english": "Devious Joker",
+    "tags": [
+      "筹码",
+      "顺子"
+    ],
+    "strategy": "顺子成型时补筹码；优先解决抽顺子的稳定性。"
+  },
+  {
+    "key": "j_diet_cola",
+    "name": "零糖可乐",
+    "english": "Diet Cola",
+    "tags": [
+      "资源",
+      "跳盲"
+    ],
+    "strategy": "出售获得双倍标签；结合下一次值得跳过的盲注规划使用。"
+  },
+  {
+    "key": "j_dna",
+    "name": "DNA",
+    "english": "DNA",
+    "tags": [
+      "复制",
+      "牌库"
+    ],
+    "strategy": "每回合首次出牌只出一张，复制关键增强牌；注意剩余出牌够不够过关。"
+  },
+  {
+    "key": "j_drivers_license",
+    "name": "驾驶执照",
+    "english": "Driver's License",
+    "tags": [
+      "乘倍率",
+      "增强"
+    ],
+    "strategy": "牌库中增强牌达到条件后启用；不要只数普通牌。"
+  },
+  {
+    "key": "j_droll",
+    "name": "滑稽小丑",
+    "english": "Droll Joker",
+    "tags": [
+      "加倍率",
+      "同花"
+    ],
+    "strategy": "同花路线的前期倍率；后期寻找成长或乘倍率替换。"
+  },
+  {
+    "key": "j_drunkard",
+    "name": "醉汉",
+    "english": "Drunkard",
+    "tags": [
+      "资源",
+      "弃牌"
+    ],
+    "strategy": "更多弃牌提高找牌和弃牌成长空间。"
+  },
+  {
+    "key": "j_duo",
+    "name": "二重奏",
+    "english": "The Duo",
+    "tags": [
+      "乘倍率",
+      "对子"
+    ],
+    "strategy": "包含对子即可受益，适合对子及多种重复点数牌型。"
+  },
+  {
+    "key": "j_dusk",
+    "name": "黄昏",
+    "english": "Dusk",
+    "tags": [
+      "重触发",
+      "末手"
+    ],
+    "strategy": "最后一次出牌重触发得分牌；配照片、人头倍率或红桃收益。"
+  },
+  {
+    "key": "j_egg",
+    "name": "鸡蛋",
+    "english": "Egg",
+    "tags": [
+      "经济",
+      "售价"
+    ],
+    "strategy": "保留多回合提升售价；与礼品卡、匕首或水手组合评估收益。"
+  },
+  {
+    "key": "j_erosion",
+    "name": "侵蚀",
+    "english": "Erosion",
+    "tags": [
+      "筹码",
+      "删牌"
+    ],
+    "strategy": "减少牌库数量累积筹码；新增牌可能抵消收益。"
+  },
+  {
+    "key": "j_even_steven",
+    "name": "偶数史蒂文",
+    "english": "Even Steven",
+    "tags": [
+      "加倍率",
+      "偶数"
+    ],
+    "strategy": "围绕偶数点数得分，和斐波那契等路线有部分交集。"
+  },
+  {
+    "key": "j_faceless",
+    "name": "无面小丑",
+    "english": "Faceless Joker",
+    "tags": [
+      "经济",
+      "弃牌",
+      "人头"
+    ],
+    "strategy": "成组弃掉人头牌赚钱；幻视可拓宽满足条件的卡。"
+  },
+  {
+    "key": "j_family",
+    "name": "一家人",
+    "english": "The Family",
+    "tags": [
+      "乘倍率",
+      "四条"
+    ],
+    "strategy": "高密度同点数牌库适合四条；先确保能稳定组成。"
+  },
+  {
+    "key": "j_fibonacci",
+    "name": "斐波那契",
+    "english": "Fibonacci",
+    "tags": [
+      "加倍率",
+      "A"
+    ],
+    "strategy": "A、2、3、5、8参与得分；与低点数重触发组合。"
+  },
+  {
+    "key": "j_flash",
+    "name": "闪示卡",
+    "english": "Flash Card",
+    "tags": [
+      "成长",
+      "刷新"
+    ],
+    "strategy": "刷新商店持续成长；控制刷新预算，别为成长透支过关资源。"
+  },
+  {
+    "key": "j_flower_pot",
+    "name": "花盆",
+    "english": "Flower Pot",
+    "tags": [
+      "乘倍率",
+      "花色"
+    ],
+    "strategy": "得分牌需覆盖四种花色；与单花色路线冲突，注意Boss削弱。"
+  },
+  {
+    "key": "j_fortune_teller",
+    "name": "占卜师",
+    "english": "Fortune Teller",
+    "tags": [
+      "成长",
+      "塔罗"
+    ],
+    "strategy": "多用塔罗累积倍率；优先选能同时优化牌库的塔罗。"
+  },
+  {
+    "key": "j_four_fingers",
+    "name": "四指",
+    "english": "Four Fingers",
+    "tags": [
+      "资源",
+      "同花",
+      "顺子"
+    ],
+    "strategy": "四张即可组成同花或顺子；可保留一张有特殊收益的卡。"
+  },
+  {
+    "key": "j_gift",
+    "name": "礼品卡",
+    "english": "Gift Card",
+    "tags": [
+      "经济",
+      "售价"
+    ],
+    "strategy": "长期抬高售价，配合鸡蛋、水手或献祭收益。"
+  },
+  {
+    "key": "j_glass",
+    "name": "玻璃小丑",
+    "english": "Glass Joker",
+    "tags": [
+      "成长",
+      "玻璃",
+      "乘倍率"
+    ],
+    "strategy": "玻璃牌碎裂时成长；保留足够可打出的牌，避免断供。"
+  },
+  {
+    "key": "j_gluttenous_joker",
+    "name": "暴食小丑",
+    "english": "Gluttonous Joker",
+    "tags": [
+      "加倍率",
+      "梅花"
+    ],
+    "strategy": "梅花得分获得额外倍率；适合同花梅花路线。"
+  },
+  {
+    "key": "j_golden",
+    "name": "黄金小丑",
+    "english": "Golden Joker",
+    "tags": [
+      "经济"
+    ],
+    "strategy": "稳定回合收入，前期建立经济后再评估是否占用得分槽。"
+  },
+  {
+    "key": "j_greedy_joker",
+    "name": "贪婪小丑",
+    "english": "Greedy Joker",
+    "tags": [
+      "加倍率",
+      "方块"
+    ],
+    "strategy": "方块得分获得额外倍率；可配粗糙宝石赚取收益。"
+  },
+  {
+    "key": "j_green_joker",
+    "name": "绿色小丑",
+    "english": "Green Joker",
+    "tags": [
+      "成长",
+      "出牌"
+    ],
+    "strategy": "多次出牌、少弃牌；与旗帜或窃贼方向相容。"
+  },
+  {
+    "key": "j_gros_michel",
+    "name": "大麦克香蕉",
+    "english": "Gros Michel",
+    "tags": [
+      "加倍率"
+    ],
+    "strategy": "前期强力过渡；自毁后才有机会出现卡文迪什。"
+  },
+  {
+    "key": "j_hack",
+    "name": "烂脱口秀演员",
+    "english": "Hack",
+    "tags": [
+      "重触发",
+      "低点"
+    ],
+    "strategy": "2到5点牌重触发；配斐波那契、幸运或其他逐卡收益。"
+  },
+  {
+    "key": "j_half",
+    "name": "半张小丑",
+    "english": "Half Joker",
+    "tags": [
+      "加倍率",
+      "少张"
+    ],
+    "strategy": "尽量以不超过三张的出牌过关；适合高牌、对子前期。"
+  },
+  {
+    "key": "j_hallucination",
+    "name": "幻觉",
+    "english": "Hallucination",
+    "tags": [
+      "资源",
+      "塔罗",
+      "概率"
+    ],
+    "strategy": "开补充包时留消耗品槽；不要仅为概率塔罗买无用包。"
+  },
+  {
+    "key": "j_hanging_chad",
+    "name": "未断选票",
+    "english": "Hanging Chad",
+    "tags": [
+      "重触发",
+      "首牌"
+    ],
+    "strategy": "把收益最高的得分牌放在第一张，配照片或玻璃牌。"
+  },
+  {
+    "key": "j_hiker",
+    "name": "徒步者",
+    "english": "Hiker",
+    "tags": [
+      "成长",
+      "筹码"
+    ],
+    "strategy": "尽量让要长期保留的牌反复得分，叠加永久筹码。"
+  },
+  {
+    "key": "j_hit_the_road",
+    "name": "上路吧杰克",
+    "english": "Hit the Road",
+    "tags": [
+      "成长",
+      "弃牌",
+      "J"
+    ],
+    "strategy": "本回合弃J提升倍率；每回合重置，先规划启动成本。"
+  },
+  {
+    "key": "j_hologram",
+    "name": "全息影像",
+    "english": "Hologram",
+    "tags": [
+      "成长",
+      "牌库",
+      "乘倍率"
+    ],
+    "strategy": "新增扑克牌持续成长；证书和DNA可提供来源。"
+  },
+  {
+    "key": "j_ice_cream",
+    "name": "冰淇淋",
+    "english": "Ice Cream",
+    "tags": [
+      "筹码",
+      "消耗"
+    ],
+    "strategy": "短期筹码过渡，每次出牌会衰减；提前寻找替代。"
+  },
+  {
+    "key": "j_idol",
+    "name": "偶像",
+    "english": "The Idol",
+    "tags": [
+      "乘倍率",
+      "点数",
+      "花色"
+    ],
+    "strategy": "查看每回合指定点数与花色，集中复制并重触发该牌。"
+  },
+  {
+    "key": "j_invisible",
+    "name": "隐形小丑",
+    "english": "Invisible Joker",
+    "tags": [
+      "复制"
+    ],
+    "strategy": "满足回合数后再卖；减少其他小丑可提高复制核心的确定性。"
+  },
+  {
+    "key": "j_joker",
+    "name": "小丑",
+    "english": "Joker",
+    "tags": [
+      "加倍率"
+    ],
+    "strategy": "最基础的前期倍率补充；经济允许时换成成长牌。"
+  },
+  {
+    "key": "j_jolly",
+    "name": "开心小丑",
+    "english": "Jolly Joker",
+    "tags": [
+      "加倍率",
+      "对子"
+    ],
+    "strategy": "包含对子时补倍率；适合稳定对子过渡。"
+  },
+  {
+    "key": "j_juggler",
+    "name": "杂耍师",
+    "english": "Juggler",
+    "tags": [
+      "资源",
+      "手牌"
+    ],
+    "strategy": "扩大手牌容量，帮助找牌、留钢铁和留K。"
+  },
+  {
+    "key": "j_loyalty_card",
+    "name": "积分卡",
+    "english": "Loyalty Card",
+    "tags": [
+      "乘倍率",
+      "周期"
+    ],
+    "strategy": "观察剩余触发次数，把关键爆发安排给高价值一手。"
+  },
+  {
+    "key": "j_luchador",
+    "name": "摔跤手",
+    "english": "Luchador",
+    "tags": [
+      "防守",
+      "Boss"
+    ],
+    "strategy": "进入危险Boss后出售解除能力；提前准备出售后的得分配置。"
+  },
+  {
+    "key": "j_lucky_cat",
+    "name": "招财猫",
+    "english": "Lucky Cat",
+    "tags": [
+      "成长",
+      "幸运",
+      "乘倍率"
+    ],
+    "strategy": "幸运牌成功触发后成长，配额外触发和概率增益。"
+  },
+  {
+    "key": "j_lusty_joker",
+    "name": "色欲小丑",
+    "english": "Lusty Joker",
+    "tags": [
+      "加倍率",
+      "红桃"
+    ],
+    "strategy": "红桃得分补倍率，与血石路线相容。"
+  },
+  {
+    "key": "j_mad",
+    "name": "疯狂小丑",
+    "english": "Mad Joker",
+    "tags": [
+      "加倍率",
+      "两对"
+    ],
+    "strategy": "两对及包含两对的高阶牌型用于前期补倍率。"
+  },
+  {
+    "key": "j_madness",
+    "name": "疯狂",
+    "english": "Madness",
+    "tags": [
+      "成长",
+      "销毁",
+      "乘倍率"
+    ],
+    "strategy": "留意进入小盲和大盲时的销毁；永恒核心可减少损失。"
+  },
+  {
+    "key": "j_mail",
+    "name": "邮件回扣",
+    "english": "Mail-In Rebate",
+    "tags": [
+      "经济",
+      "弃牌"
+    ],
+    "strategy": "按本回合指定点数弃牌赚钱，别误弃过关核心。"
+  },
+  {
+    "key": "j_marble",
+    "name": "大理石小丑",
+    "english": "Marble Joker",
+    "tags": [
+      "资源",
+      "石头"
+    ],
+    "strategy": "增加石头牌，配石头小丑或全息影像；留意抽牌稀释。"
+  },
+  {
+    "key": "j_matador",
+    "name": "斗牛士",
+    "english": "Matador",
+    "tags": [
+      "经济",
+      "Boss"
+    ],
+    "strategy": "依赖Boss触发条件获得收入，部分Boss不适用，不能当稳定经济。"
+  },
+  {
+    "key": "j_merry_andy",
+    "name": "快乐安迪",
+    "english": "Merry Andy",
+    "tags": [
+      "资源",
+      "弃牌"
+    ],
+    "strategy": "额外弃牌帮助成长和找牌，但手牌上限变小。"
+  },
+  {
+    "key": "j_midas_mask",
+    "name": "迈达斯面具",
+    "english": "Midas Mask",
+    "tags": [
+      "资源",
+      "人头",
+      "黄金"
+    ],
+    "strategy": "人头牌得分后转黄金；留手赚收入，配吸血鬼时注意顺序。"
+  },
+  {
+    "key": "j_mime",
+    "name": "哑剧演员",
+    "english": "Mime",
+    "tags": [
+      "重触发",
+      "留手"
+    ],
+    "strategy": "重触发手中牌效果，配钢铁、黄金、男爵及红蜡封。"
+  },
+  {
+    "key": "j_misprint",
+    "name": "印错小丑",
+    "english": "Misprint",
+    "tags": [
+      "加倍率",
+      "概率"
+    ],
+    "strategy": "前期随机倍率过渡，不以最高值规划必过分数。"
+  },
+  {
+    "key": "j_mr_bones",
+    "name": "骷髅先生",
+    "english": "Mr. Bones",
+    "tags": [
+      "防守"
+    ],
+    "strategy": "失手时满足分数比例可救场；仍需准备后续得分来源。"
+  },
+  {
+    "key": "j_mystic_summit",
+    "name": "神秘之峰",
+    "english": "Mystic Summit",
+    "tags": [
+      "加倍率",
+      "弃牌"
+    ],
+    "strategy": "弃牌次数用尽后触发；与保留弃牌路线冲突。"
+  },
+  {
+    "key": "j_obelisk",
+    "name": "方尖石塔",
+    "english": "Obelisk",
+    "tags": [
+      "成长",
+      "牌型",
+      "乘倍率"
+    ],
+    "strategy": "先积累一种最常用牌型，再切换其他牌型，避免触发重置。"
+  },
+  {
+    "key": "j_odd_todd",
+    "name": "奇数托德",
+    "english": "Odd Todd",
+    "tags": [
+      "筹码",
+      "奇数"
+    ],
+    "strategy": "让A及奇数点数得分，适合与斐波那契组合。"
+  },
+  {
+    "key": "j_onyx_agate",
+    "name": "缟玛瑙",
+    "english": "Onyx Agate",
+    "tags": [
+      "加倍率",
+      "梅花"
+    ],
+    "strategy": "梅花逐卡补倍率，配同花和重触发。"
+  },
+  {
+    "key": "j_oops",
+    "name": "六六大顺",
+    "english": "Oops! All 6s",
+    "tags": [
+      "概率"
+    ],
+    "strategy": "提升概率事件收益，配血石、幸运牌；也要考虑负面概率事件。"
+  },
+  {
+    "key": "j_order",
+    "name": "秩序",
+    "english": "The Order",
+    "tags": [
+      "乘倍率",
+      "顺子"
+    ],
+    "strategy": "稳定顺子后提供乘倍率；先用捷径等解决成牌。"
+  },
+  {
+    "key": "j_pareidolia",
+    "name": "幻视",
+    "english": "Pareidolia",
+    "tags": [
+      "资源",
+      "人头"
+    ],
+    "strategy": "所有牌都视为人头，扩展人头收益；遇到植物Boss很危险。"
+  },
+  {
+    "key": "j_perkeo",
+    "name": "帕奇欧",
+    "english": "Perkeo",
+    "tags": [
+      "复制",
+      "消耗品"
+    ],
+    "strategy": "离开商店前仅保留想复制的消耗品，提高复制的确定性。"
+  },
+  {
+    "key": "j_photograph",
+    "name": "照片",
+    "english": "Photograph",
+    "tags": [
+      "乘倍率",
+      "人头",
+      "首牌"
+    ],
+    "strategy": "首张得分人头牌提供倍率，配悬挂小丑重复触发。"
+  },
+  {
+    "key": "j_popcorn",
+    "name": "爆米花",
+    "english": "Popcorn",
+    "tags": [
+      "加倍率",
+      "消耗"
+    ],
+    "strategy": "短期倍率过渡；每回合衰减，提前准备接替。"
+  },
+  {
+    "key": "j_raised_fist",
+    "name": "致胜之拳",
+    "english": "Raised Fist",
+    "tags": [
+      "加倍率",
+      "留手"
+    ],
+    "strategy": "根据留手最低点数给倍率；把低点数牌先打出。"
+  },
+  {
+    "key": "j_ramen",
+    "name": "拉面",
+    "english": "Ramen",
+    "tags": [
+      "乘倍率",
+      "弃牌"
+    ],
+    "strategy": "尽量少弃牌以保存倍率；与依赖弃牌的路线冲突。"
+  },
+  {
+    "key": "j_red_card",
+    "name": "红牌",
+    "english": "Red Card",
+    "tags": [
+      "成长",
+      "补充包"
+    ],
+    "strategy": "跳过补充包提升倍率；先比较拿牌收益和成长成本。"
+  },
+  {
+    "key": "j_reserved_parking",
+    "name": "私人车位",
+    "english": "Reserved Parking",
+    "tags": [
+      "经济",
+      "留手",
+      "人头"
+    ],
+    "strategy": "把人头留在手里赚钱，配哑剧演员重触发。"
+  },
+  {
+    "key": "j_ride_the_bus",
+    "name": "搭乘巴士",
+    "english": "Ride the Bus",
+    "tags": [
+      "成长",
+      "非人头"
+    ],
+    "strategy": "避免人头牌参与得分以免重置；留手人头通常不触发重置。"
+  },
+  {
+    "key": "j_riff_raff",
+    "name": "乌合之众",
+    "english": "Riff-Raff",
+    "tags": [
+      "资源",
+      "小丑"
+    ],
+    "strategy": "选盲注前留小丑槽，生成牌可用于过渡或出售。"
+  },
+  {
+    "key": "j_ring_master",
+    "name": "马戏团长",
+    "english": "Showman",
+    "tags": [
+      "资源",
+      "小丑"
+    ],
+    "strategy": "增加特殊版本出现机会；买牌仍需符合当前路线。"
+  },
+  {
+    "key": "j_rocket",
+    "name": "火箭",
+    "english": "Rocket",
+    "tags": [
+      "经济",
+      "Boss"
+    ],
+    "strategy": "越早拿越好，击败Boss累积收入。"
+  },
+  {
+    "key": "j_rough_gem",
+    "name": "璞玉",
+    "english": "Rough Gem",
+    "tags": [
+      "经济",
+      "方块"
+    ],
+    "strategy": "方块得分赚钱，配同花方块和重触发。"
+  },
+  {
+    "key": "j_runner",
+    "name": "跑步选手",
+    "english": "Runner",
+    "tags": [
+      "成长",
+      "顺子",
+      "筹码"
+    ],
+    "strategy": "反复打顺子叠筹码，可与顺子倍率互补。"
+  },
+  {
+    "key": "j_satellite",
+    "name": "卫星",
+    "english": "Satellite",
+    "tags": [
+      "经济",
+      "星球"
+    ],
+    "strategy": "使用不同种类星球提高收入；兼顾主力牌型等级。"
+  },
+  {
+    "key": "j_scary_face",
+    "name": "恐怖面孔",
+    "english": "Scary Face",
+    "tags": [
+      "筹码",
+      "人头"
+    ],
+    "strategy": "人头牌得分补筹码，配喜与悲及重触发。"
+  },
+  {
+    "key": "j_scholar",
+    "name": "学者",
+    "english": "Scholar",
+    "tags": [
+      "筹码",
+      "加倍率",
+      "A"
+    ],
+    "strategy": "围绕A得分，复制A并配重触发。"
+  },
+  {
+    "key": "j_seance",
+    "name": "通灵",
+    "english": "Séance",
+    "tags": [
+      "资源",
+      "同花顺"
+    ],
+    "strategy": "稳定同花顺后创造幻灵；高门槛路线，不宜勉强启动。"
+  },
+  {
+    "key": "j_seeing_double",
+    "name": "重影",
+    "english": "Seeing Double",
+    "tags": [
+      "乘倍率",
+      "梅花"
+    ],
+    "strategy": "得分牌包含梅花与其他花色，避免整手纯梅花。"
+  },
+  {
+    "key": "j_selzer",
+    "name": "苏打水",
+    "english": "Seltzer",
+    "tags": [
+      "重触发",
+      "消耗"
+    ],
+    "strategy": "有限次数的全部得分牌重触发；留意消耗进度与接替牌。"
+  },
+  {
+    "key": "j_shoot_the_moon",
+    "name": "射月",
+    "english": "Shoot the Moon",
+    "tags": [
+      "加倍率",
+      "留手",
+      "Q"
+    ],
+    "strategy": "把Q留手提供倍率，哑剧演员可重复触发。"
+  },
+  {
+    "key": "j_shortcut",
+    "name": "捷径",
+    "english": "Shortcut",
+    "tags": [
+      "资源",
+      "顺子"
+    ],
+    "strategy": "允许跳点组成顺子，先在实际选牌中确认牌型。"
+  },
+  {
+    "key": "j_sixth_sense",
+    "name": "第六感",
+    "english": "Sixth Sense",
+    "tags": [
+      "资源",
+      "6"
+    ],
+    "strategy": "每回合首手只出一张6，销毁换幻灵；留消耗品槽。"
+  },
+  {
+    "key": "j_sly",
+    "name": "奸诈小丑",
+    "english": "Sly Joker",
+    "tags": [
+      "筹码",
+      "对子"
+    ],
+    "strategy": "包含对子即可补筹码，前期稳定过渡。"
+  },
+  {
+    "key": "j_smeared",
+    "name": "模糊小丑",
+    "english": "Smeared Joker",
+    "tags": [
+      "资源",
+      "花色"
+    ],
+    "strategy": "红色、黑色分别合并判断，降低同花门槛；仍注意Boss效果。"
+  },
+  {
+    "key": "j_smiley",
+    "name": "微笑表情",
+    "english": "Smiley Face",
+    "tags": [
+      "加倍率",
+      "人头"
+    ],
+    "strategy": "让人头牌得分，配恐怖面孔和照片。"
+  },
+  {
+    "key": "j_sock_and_buskin",
+    "name": "喜与悲",
+    "english": "Sock and Buskin",
+    "tags": [
+      "重触发",
+      "人头"
+    ],
+    "strategy": "人头牌重触发；配照片、喜与悲或特里布莱。"
+  },
+  {
+    "key": "j_space",
+    "name": "太空小丑",
+    "english": "Space Joker",
+    "tags": [
+      "成长",
+      "牌型",
+      "概率"
+    ],
+    "strategy": "持续打主力牌型争取升级；随机触发不能代替稳定分数。"
+  },
+  {
+    "key": "j_splash",
+    "name": "飞溅",
+    "english": "Splash",
+    "tags": [
+      "资源",
+      "得分"
+    ],
+    "strategy": "打出的所有牌都参与得分，可带额外增强牌，但不改变牌型。"
+  },
+  {
+    "key": "j_square",
+    "name": "方形小丑",
+    "english": "Square Joker",
+    "tags": [
+      "成长",
+      "四张",
+      "筹码"
+    ],
+    "strategy": "每手恰好四张来成长；配四指或对子路线。"
+  },
+  {
+    "key": "j_steel_joker",
+    "name": "钢铁小丑",
+    "english": "Steel Joker",
+    "tags": [
+      "乘倍率",
+      "钢铁"
+    ],
+    "strategy": "增加牌库中的钢铁牌数量，兼顾实际留手收益。"
+  },
+  {
+    "key": "j_stencil",
+    "name": "模具小丑",
+    "english": "Joker Stencil",
+    "tags": [
+      "乘倍率",
+      "空槽"
+    ],
+    "strategy": "保留空小丑槽放大倍率；买新牌前比较倍率损失。"
+  },
+  {
+    "key": "j_stone",
+    "name": "石头小丑",
+    "english": "Stone Joker",
+    "tags": [
+      "筹码",
+      "石头"
+    ],
+    "strategy": "牌库石头牌越多收益越高，配大理石小丑。"
+  },
+  {
+    "key": "j_stuntman",
+    "name": "特技演员",
+    "english": "Stuntman",
+    "tags": [
+      "筹码",
+      "手牌"
+    ],
+    "strategy": "快速解决筹码缺口，代价是手牌减少；留手路线慎选。"
+  },
+  {
+    "key": "j_supernova",
+    "name": "超新星",
+    "english": "Supernova",
+    "tags": [
+      "成长",
+      "牌型"
+    ],
+    "strategy": "集中重复一种牌型，配星球和稳定成牌路线。"
+  },
+  {
+    "key": "j_superposition",
+    "name": "叠加态",
+    "english": "Superposition",
+    "tags": [
+      "资源",
+      "顺子",
+      "A"
+    ],
+    "strategy": "含A的顺子产塔罗；留槽并提高A顺子的稳定性。"
+  },
+  {
+    "key": "j_swashbuckler",
+    "name": "侠盗",
+    "english": "Swashbuckler",
+    "tags": [
+      "加倍率",
+      "售价"
+    ],
+    "strategy": "其他小丑售价转倍率，配鸡蛋和礼品卡。"
+  },
+  {
+    "key": "j_throwback",
+    "name": "回溯",
+    "english": "Throwback",
+    "tags": [
+      "成长",
+      "跳盲",
+      "乘倍率"
+    ],
+    "strategy": "跳过盲注成长，但会失去商店、收入和回合成长机会。"
+  },
+  {
+    "key": "j_ticket",
+    "name": "黄金门票",
+    "english": "Golden Ticket",
+    "tags": [
+      "经济",
+      "黄金"
+    ],
+    "strategy": "黄金牌参与得分赚钱；黄金留手收入与出牌收益要权衡。"
+  },
+  {
+    "key": "j_to_the_moon",
+    "name": "冲向月球",
+    "english": "To the Moon",
+    "tags": [
+      "经济",
+      "利息"
+    ],
+    "strategy": "放大每档存款的利息收益，注意最大利息上限。"
+  },
+  {
+    "key": "j_todo_list",
+    "name": "待办清单",
+    "english": "To Do List",
+    "tags": [
+      "经济",
+      "牌型"
+    ],
+    "strategy": "查看当前要求牌型再出牌，下回合要求可能变化。"
+  },
+  {
+    "key": "j_trading",
+    "name": "交易卡",
+    "english": "Trading Card",
+    "tags": [
+      "经济",
+      "删牌"
+    ],
+    "strategy": "首轮弃牌只弃一张，删除弱牌赚收入。"
+  },
+  {
+    "key": "j_tribe",
+    "name": "部落",
+    "english": "The Tribe",
+    "tags": [
+      "乘倍率",
+      "同花"
+    ],
+    "strategy": "同花稳定后补乘倍率，配花色逐卡收益。"
+  },
+  {
+    "key": "j_triboulet",
+    "name": "特里布莱",
+    "english": "Triboulet",
+    "tags": [
+      "乘倍率",
+      "人头",
+      "K",
+      "Q"
+    ],
+    "strategy": "K和Q作为得分核心，配喜剧与悲剧、悬挂小丑。"
+  },
+  {
+    "key": "j_trio",
+    "name": "三重奏",
+    "english": "The Trio",
+    "tags": [
+      "乘倍率",
+      "三条"
+    ],
+    "strategy": "包含三条即可受益，适合同点数精简路线。"
+  },
+  {
+    "key": "j_troubadour",
+    "name": "游吟诗人",
+    "english": "Troubadour",
+    "tags": [
+      "资源",
+      "手牌"
+    ],
+    "strategy": "增加手牌但减少出牌次数；适合留手爆发，谨防次数不足。"
+  },
+  {
+    "key": "j_trousers",
+    "name": "备用裤子",
+    "english": "Spare Trousers",
+    "tags": [
+      "成长",
+      "两对"
+    ],
+    "strategy": "反复出包含两对的牌型成长；葫芦等也可检查是否包含。"
+  },
+  {
+    "key": "j_turtle_bean",
+    "name": "黑龟豆",
+    "english": "Turtle Bean",
+    "tags": [
+      "资源",
+      "手牌",
+      "消耗"
+    ],
+    "strategy": "短期增加手牌以稳定找牌，逐回合衰减。"
+  },
+  {
+    "key": "j_vagabond",
+    "name": "流浪者",
+    "english": "Vagabond",
+    "tags": [
+      "资源",
+      "塔罗",
+      "低钱"
+    ],
+    "strategy": "保持低现金出牌产塔罗；与存钱利息路线存在取舍。"
+  },
+  {
+    "key": "j_vampire",
+    "name": "吸血鬼",
+    "english": "Vampire",
+    "tags": [
+      "成长",
+      "增强",
+      "乘倍率"
+    ],
+    "strategy": "消耗得分牌增强来成长；和点金面具组合时注意小丑顺序。"
+  },
+  {
+    "key": "j_walkie_talkie",
+    "name": "对讲机",
+    "english": "Walkie Talkie",
+    "tags": [
+      "筹码",
+      "加倍率",
+      "10",
+      "4"
+    ],
+    "strategy": "让10和4参与得分，4点还能配低点数重触发。"
+  },
+  {
+    "key": "j_wee",
+    "name": "小小丑",
+    "english": "Wee Joker",
+    "tags": [
+      "成长",
+      "2",
+      "筹码"
+    ],
+    "strategy": "2点牌反复得分成长，配黑客和其他重触发。"
+  },
+  {
+    "key": "j_wily",
+    "name": "狡猾小丑",
+    "english": "Wily Joker",
+    "tags": [
+      "筹码",
+      "四条"
+    ],
+    "strategy": "四条路线的筹码补充；先解决同点数牌浓度。"
+  },
+  {
+    "key": "j_wrathful_joker",
+    "name": "愤怒小丑",
+    "english": "Wrathful Joker",
+    "tags": [
+      "加倍率",
+      "黑桃"
+    ],
+    "strategy": "黑桃得分补倍率，与箭头的筹码收益互补。"
+  },
+  {
+    "key": "j_yorick",
+    "name": "约里克",
+    "english": "Yorick",
+    "tags": [
+      "成长",
+      "弃牌",
+      "乘倍率"
+    ],
+    "strategy": "通过累计弃牌成长，配额外弃牌；以游戏当前计数为准。"
+  },
+  {
+    "key": "j_zany",
+    "name": "古怪小丑",
+    "english": "Zany Joker",
+    "tags": [
+      "加倍率",
+      "三条"
+    ],
+    "strategy": "包含三条时补倍率，前期同点数路线过渡。"
+  }
+]
